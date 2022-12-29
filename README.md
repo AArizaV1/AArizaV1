@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate in **the near future in big companies like LinkedIn, Google, Facebook, etc... Since I think I can get to have a good growth in this sector.**
 
-- 👨‍💻 All of my certificates are available at [adrianariza.com] or [https://www.linkedin.com/in/adrian-ariza/]
+- 👨‍💻 All of my certificates are available at [https://www.adrianariza.com] or [https://www.linkedin.com/in/adrian-ariza/]
 
 - 📫 How to reach me **contact@adrianariza.com**
 
