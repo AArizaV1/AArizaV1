@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Solera, Inc**
 
 - 🌱 I’m currently learning **about different languages and frameworks, for example:**
-                                **[BACK-END Development]** -> learning more about **JavaScript, Java, .NET ... **
+                                **[BACK-END Development]** -> learning more about **JavaScript, Java, .NET ...**
                                 **[FRONT-END Development]** -> learning more about **React, BootStrap, HTML5, CSS3, MATERIALIZE ...**
 
 - 👯 I’m looking to collaborate in **the near future in big companies like LinkedIn, Google, Facebook, etc... Since I think I can get to have a good growth in this sector.**
